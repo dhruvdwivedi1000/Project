@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+mlflow
+flask  # only if you're using the API
